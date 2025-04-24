@@ -1,4 +1,4 @@
-# astro-inventory-dashboard
+# Astro-inventory-dashboard
 Inventory Risk &amp; Replenishment Dashboard built in Tableau using mock ERP data.
 # AstroDynamics | Inventory Risk & Replenishment Dashboard
 
